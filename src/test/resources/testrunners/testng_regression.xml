@@ -31,10 +31,10 @@
 		</classes>	
 	</test>
 	
-	<!-- <test name = "Open Cart Registration Page test">
+	<test name = "Open Cart Registration Page test">
 		<classes>
 			<class name="com.qa.opencart.tests.RegisterPageTest"/>
 		</classes>	
-	</test> -->
+	</test>
 	
 </suite>
