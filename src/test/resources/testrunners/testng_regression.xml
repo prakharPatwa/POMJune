@@ -25,11 +25,11 @@
 		</classes>	
 	</test>
 	
-	<test name = "Open Cart Negative Login Page test">
+	<!-- <test name = "Open Cart Negative Login Page test">
 		<classes>
 			<class name="com.qa.opencart.tests.LoginPageNegativeTest"/>
 		</classes>	
-	</test>
+	</test> -->
 	
 	<test name = "Open Cart Registration Page test">
 		<classes>
